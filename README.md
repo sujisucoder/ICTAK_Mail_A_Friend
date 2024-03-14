@@ -1,0 +1,1 @@
+This is a simple node program to send a mail using nodemailer npm package.
